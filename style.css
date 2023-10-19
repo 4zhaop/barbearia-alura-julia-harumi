@@ -6,6 +6,9 @@ background-color: gray;}
 .alinhar{text-align: center;}
 .destaque{color: red;}
 .imagem{width: 100%;}
-.imagem_beneficio{width: 100%;}
+.lista{display: inline;
+    vertical-align: top;}
+.imagem-beneficio{width: 50%;}
+.titulo-principal{padding-left: 20px;}
 
 
